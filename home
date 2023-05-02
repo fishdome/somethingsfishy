@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .parallax {
+        
+        background-image: url("fish-groove.gif");
+
+        /* Set a specific height */
+        min-height: 500px; 
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <marquee>FISHDOME is the best website for fish praising of all kinds! Explore around to find any and all things about fish, MEMES and some pretty "fishy" stuff.</marquee>
+    
+    
+    <div class="parallax"></div>
+
+    <div style="height:650px;background-color:blue;font-size:36px">
+      <h1>WELCOME TO FISHDOME!!!!!</h1>
+      <p> This Website is designed to help the average internet nerd praise any and all fish from the internet</p>
+        
+        <a href="memes.html" style="color:white">SOMETHINGS A LITTLE FISHY HERE...........</a>
+        <p>              </p><p>
+        <a href="FISHY.html" style="color:white">PRASIE THE FISH BY ORDER OF RICK ASTLEY</a>
+      </p><p>Fish can also remember other fish and MUSIC!</p>
+      <p>Some fish (SHARKS!) can raise there body tempature!</p>
+      <p>THEY CAN DROWN???????</p>
+      <p>yes</p>
+    </div>
+  </body>
+</html>
